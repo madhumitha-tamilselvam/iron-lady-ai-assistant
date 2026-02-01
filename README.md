@@ -44,8 +44,3 @@ ILA provides an intelligent, friendly, and guided experience by:
 - Reduces manual customer support effort
 
 
-## 🚀 How to Run the Project Locally
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/iron-lady-ai-assistant.git
