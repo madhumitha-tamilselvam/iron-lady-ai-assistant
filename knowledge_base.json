@@ -1,0 +1,53 @@
+{
+  "coaching": {
+    "title": "Coaching & Mentorship",
+    "description": "One-on-one personalized coaching for women to gain clarity, confidence, leadership skills, and career direction.",
+    "includes": [
+      "Career clarity coaching",
+      "Confidence & mindset coaching",
+      "Leadership development",
+      "Personal growth mentoring"
+    ]
+  },
+
+  "programs": [
+    {
+      "name": "Career Clarity Program",
+      "for": "Students & early professionals",
+      "details": "Helps women identify strengths, career direction, and next steps."
+    },
+    {
+      "name": "Leadership Growth Program",
+      "for": "Working professionals",
+      "details": "Focuses on leadership skills, decision-making, and professional growth."
+    },
+    {
+      "name": "Personal Empowerment Program",
+      "for": "All women",
+      "details": "Improves confidence, mindset, and self-belief."
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "What coaching is available?",
+      "answer": "Iron Lady offers personalized one-on-one coaching covering career clarity, leadership growth, confidence building, and personal empowerment."
+    },
+    {
+      "question": "What courses are available?",
+      "answer": "Iron Lady offers Career Clarity Program, Leadership Growth Program, and Personal Empowerment Program."
+    },
+    {
+      "question": "Who can join Iron Lady programs?",
+      "answer": "Students, early career professionals, working women, and women seeking personal growth can join."
+    },
+    {
+      "question": "Is mentoring available?",
+      "answer": "Yes, Iron Lady provides mentorship and guidance tailored to individual career and personal goals."
+    },
+    {
+      "question": "How to contact Iron Lady?",
+      "answer": "You can contact the Iron Lady team through the official website or social media channels."
+    }
+  ]
+}
